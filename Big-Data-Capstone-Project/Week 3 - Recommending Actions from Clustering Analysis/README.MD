@@ -1,0 +1,1 @@
+This exercise is to practice and follow the instructions shown in the course's [python notebook](https://github.com/words-sdsc/courseraDataSimulation/blob/master/capstone/readings/Week%203%20pySpark%20ML%20Clustering.ipynb)
